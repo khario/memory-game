@@ -1,0 +1,10 @@
+.grid {
+  height: 300px;
+  width: 400px;
+}
+
+.container {
+  margin: auto;
+  padding: 150px;
+  width: 400px;
+}
